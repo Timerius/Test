@@ -1,0 +1,261 @@
+*{
+    margin: 0;
+     padding: 0;
+}
+.wrapper{
+	width:600px;
+	margin:0 auto;
+	text-align: center;
+	padding: 0px 16px;
+}
+.header{
+	width: 100%;
+	background:#272727;
+}
+.logo{
+	    display: inline-block;
+    width: 527px;
+    padding-top: 44px;
+    font-size: 24px;
+    color: white;
+    text-align: left;
+}
+.link{
+	display:inline-block;
+	padding-top: 44px;
+	font-size:12px;
+	color:white;
+	text-decoration: none;
+	text-align: right;
+	padding-bottom: 5px;
+	border-bottom:2px solid white;
+}
+/*.pro-web{
+	padding-top: 150px;
+	
+}*/
+
+.heading{
+	margin-top: 86px;
+	font-size:28px;
+	color:#939393;
+}
+.heading-promotion{
+	margin-top: 26px;
+	font-size:36px;
+	color:white;
+}
+.picture-in-header{
+	margin-top: 55px;
+	position: relative;
+	bottom: -14px;
+}
+
+
+.content-center{
+	width: 100%;
+	background:#ffffff;
+}
+.content-center-text{
+	font-size: 18px;
+	padding-top: 60px;
+	padding-bottom:50px;
+}
+
+
+.button-site-now{
+	width: 210px;
+	height:40px;
+	border-radius: 25px;
+	background: #34a56d;
+	color:#ffffff;
+}
+.button-site-now a{
+	text-decoration: none;
+	width: 210px;
+	height:40px;
+	border-radius: 25px;
+	background: #34a56d;
+	color:#ffffff;
+}
+.line:before{
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height:12px;
+	background-image:url(image/line.png);
+	background-repeat: no-repeat;
+	position: relative;
+	left:-30px;
+	top:2px;
+}
+.line:after{
+	content: "";
+	display: inline-block;
+	width: 100px;
+	height:12px;
+	background-image:url(image/line.png);
+	background-repeat: no-repeat;
+	position: relative;
+	right:-30px;
+	top:2px;
+}
+
+
+.block-text-left{
+	display:inline-block;
+	width: 260px; 
+	text-align: left;
+	padding-top: 90px;
+	margin-right: 45px;
+	
+}
+.block-img-right{
+	display: inline-block;
+}
+.column-text{
+	font-size:14px;
+}
+.block-img-left{
+	display: inline-block;
+	padding-top: 100px;
+    margin-right: 18px;
+}
+.block-text-right{
+	display:inline-block;
+	width: 260px;
+	margin-left: 36px;
+	text-align: left;
+	
+}
+
+
+
+.sign-up-block{
+	width: 100%;
+	background: #34a56d;
+	margin-top: 100px;
+}
+.text-block-sign{
+	display:inline-block;
+	padding-top: 65px;
+	
+	text-align: left;
+}
+.quick_easy{
+	font-size: 30px;
+	color:white;
+}
+.small-text-sign{
+	font-size: 16px;
+	padding-right:40px;
+	padding-bottom: 60px;
+	color:white;
+}
+.up{
+	width: 140px;
+	height:40px;
+	border-radius: 25px;
+	background: #fff;
+	color:#34a56d;
+	position: relative;
+	top:-20px;
+}
+.up a{
+	text-decoration: none;
+	color:#34a56d;
+}
+
+
+
+.happy-web{
+	width: 100%;
+	background: #ffffff;
+}
+.happy{
+	padding-top: 80px;
+
+	font-size: 24px;
+}
+.small-text{
+	font-size: 14px;
+}
+.marker-activ{
+	display: inline-block;
+	margin-top: 30px;
+	width:6px;
+	height:6px;
+	background: #34a56d;
+	border-radius: 50px;
+}
+.marker-inactive{
+	display: inline-block;
+	width:6px;
+	height:6px;
+	background: #e0e0e0;
+	border-radius: 50px;
+}
+
+
+
+.futer{
+	width: 100%;
+	background: #f1f1f1;
+	margin-top: 88px;
+	padding-top: 38px;
+	padding-bottom: 65px;
+}
+.text-futer{
+	display: inline-block;
+	width: 320px;
+	text-align: left;
+	padding-left: 16px;
+	padding-top: 35px;
+}
+.large-text-futer{
+	font-size: 15px;
+}
+.medium-text-futer{
+	font-size: 12px;
+}
+.sprite{
+	display: inline-block;
+    margin-left: 80px;
+    position: relative;
+    top:-20px;
+}
+.fb{
+	    display: inline-block;
+    background-image: url(image/sprite.png);
+    background-position: -3px -6px;
+    width: 24px;
+    height: 24px;
+}
+.tv{
+	    display: inline-block;
+    background-image: url(image/sprite.png);
+    background-position: -27px -6px;
+    width: 24px;
+    height: 24px;
+}
+.g{
+	    display: inline-block;
+    background-image: url(image/sprite.png);
+    background-position: -52px -6px;
+    width: 24px;
+    height: 24px;
+}
+.in{
+	   display: inline-block;
+    background-image: url(image/sprite.png);
+    background-position: -78px -6px;
+    width: 24px;
+    height: 24px;
+}
+.pp{
+	    display: inline-block;
+    background-image: url(image/sprite.png);
+    background-position: -103px -6px;
+    width: 24px;
+    height: 24px;
+}
